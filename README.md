@@ -1,0 +1,1 @@
+This is a node js server for authenticating user for web and mobile applications . mongoDB is used as backend for storing user data , has three routes for Login , Signup and for java web token verification.
